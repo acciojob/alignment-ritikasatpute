@@ -1,7 +1,44 @@
 /*  your css code here. If applicable */
+.head{
+	text-align:center;
+}
+#table-1{
+	width:800px;
+	border:1px solid black;
+}
+.center{
+	text-align:center;
+	
+}
+.right{
+	text-align:right;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .green{
 	background-color:green;
 }
 .blue{
 	background-color:blue;
+}
+#table-3{
+	table-border:1px solid black;
+	Spacing:1px;
+	cell-padding:1px;
 }
