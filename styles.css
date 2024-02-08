@@ -20,21 +20,6 @@
 	height:150px;
 	border:1px solid black;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .green{
 	background-color:green;
 }
@@ -42,7 +27,7 @@
 	background-color:blue;
 }
 #table-3{
-	table-border:1px solid black;
+	border:1px solid black;
 	Spacing:1px;
 	cell-padding:1px;
 }
